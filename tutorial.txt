@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 This is a tutorial
 Tutorial 1
 Tutorial 2
-=======
-This is a tutorial
-Tutorial 1
->>>>>>> refs/remotes/origin/master
+Tutorial 3
+
+
